@@ -1,0 +1,423 @@
+[
+    {
+        "almacenamiento": [
+            {
+                "nombre": "Disco Interno SSD Crucial P5 1TB M.2 NVMe PCle 4.0 6600MB/s",
+                "categoria": "Disco Interno",
+                "subCategoria": "SSD",
+                "marca": "Crucial",
+                "Factor de Forma": "M.2",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Disco Interno SSD Crucial P3 500GB M.2 NVMe PCle 4.0 4700MB/s",
+                "categoria": "Disco Duro",
+                "subCategoria": "SSD",
+                "marca": "Crucial",
+                "Factor de Forma": "M.2",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Disco Interno SSD Crucial P3 1TB M.2 NVMe PCle 3.0 3500MB/s",
+                "categoria": "Disco Duro",
+                "subCategoria": "SSD",
+                "marca": "Crucial",
+                "Factor de Forma": "M.2",
+                "img": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "audio": [
+            {
+                "nombre": "Auricular LOGITECH G332 Negro",
+                "categoria": "Auricular",
+                "modelo": "G332",
+                "marca": "LOGITECH",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular Logitech G635 Negro",
+                "categoria": "Auricular",
+                "modelo": "G635",
+                "marca": "LOGITECH",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular Gaming Ttesports Shock Pro RGB 7.1",
+                "categoria": "Auricular",
+                "modelo": "Shock Pro RGB 7.1",
+                "marca": "Ttesports",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular Trust gxt 322c carus Negro y  Verde",
+                "categoria": "Auricular",
+                "modelo": "GXT 322C",
+                "marca": "Carus",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 310 Radius Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 310",
+                "marca": "Radius",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular XTECH Insolense Negro",
+                "categoria": "Auricular",
+                "modelo": "Insolense",
+                "marca": "XTECH",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 414 Zamak Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 414",
+                "marca": "Zamak",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular XTECH Igneus Negro",
+                "categoria": "Auricular",
+                "modelo": "Igneus",
+                "marca": "XTECH",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 450 Blizz Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 420 Blizz",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 322 Carus Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 322 Carus",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 433 Pylo Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 433 Pylo",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 322B Carus Azul y Celeste",
+                "categoria": "Auricular",
+                "modelo": "GXT 322B Carus",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 433K Pylo Negro y Gris",
+                "categoria": "Auricular",
+                "modelo": "GXT 433K Pylo",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular XTRECH Kalamos Negro",
+                "categoria": "Auricular",
+                "modelo": "Kalamos",
+                "marca": "XTRECH",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 404B Rana y Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 404B Rana",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular trust gxt 430 Irionn Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 430 Irionn",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular GENIUS HS-G600V Negro",
+                "categoria": "Auricular",
+                "modelo": "HS-600V",
+                "marca": "GENIUS",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular GENIUS HS-M270 Verde",
+                "categoria": "Auricular",
+                "modelo": "HS-M270",
+                "marca": "GENIUS",
+                "formato": "In Ear",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular PRIMUS Arcus90T Violeta",
+                "categoria": "Auricular",
+                "modelo": "Arcus90T",
+                "marca": "PRIMUS",
+                "formato": "In Ear",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 444 Wayman Negro",
+                "categoria": "Auricular",
+                "modelo": "GXT 444 Wayman",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular TRUST GXT 322W Carus Blanco y Gris",
+                "categoria": "Auricular",
+                "modelo": "GXT 322W Carus",
+                "marca": "TRUST",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Auricular GENIUS HS-G710V Negro y Rojo",
+                "categoria": "Auricular",
+                "modelo": "HS-G710V",
+                "marca": "GENIUS",
+                "formato": "Vincha",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Micrófono LOGITECH Yeticaster Negro c/Soporte",
+                "categoria": "Microfono",
+                "modelo": "Yeticaster",
+                "marca": "LOGITECH",
+                "tipo": "Condensador",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Micrófono TRUST GXT 258 Fyru Negro",
+                "categoria": "Microfono",
+                "modelo": "GXT 258 Fyru",
+                "marca": "TRUST",
+                "tipo": "Condensador",
+                "img": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "computadoras": [
+            {
+                "nombre": "Notebook GIGABYTES AERO 16 Intel Core i7-12700H 16GB DDR5-4800Mhz GeForce RTX 3060P 1TB SSD Windows 10 Pro",
+                "categoria": "Notebook",
+                "marca": "GIGABYTES",
+                "slots de memoria": "2",
+                "limite de memoria": "64GB",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Notebook GIGABYTES AERO 16 Intel Core i7-12700H 16GB DDR5-4800Mhz GeForce RTX 3070Ti Q 1TB SSD Windows 10 Pro",
+                "categoria": "Notebook",
+                "marca": "GIGABYTES",
+                "slots de memoria": "2",
+                "limite de memoria": "64GB",
+                "img": "",
+                "caracteristicas": []
+            }  
+        ]
+    },
+    {
+        "harware": [
+            {
+                "nombre": "Air Cooler COOLER MASTER MasterAir MA410P RGB",
+                "categoria": "Cooler",
+                "marca": "COOLER MASTER",
+                "cant de heatpipes": 4,
+                "cant fan coolers": 1,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Air Cooler COOLER MASTER MasterAir MA410M ARGB",
+                "categoria": "Cooler",
+                "marca": "COOLER MASTER",
+                "cant de heatpipes": 4,
+                "cant fan coolers": 2,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Air Cooler COOLER MASTER MasterAir Hyper T20",
+                "categoria": "Cooler",
+                "marca": "COOLER MASTER",
+                "cant de heatpipes": 2,
+                "cant fan coolers": 1,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Air Cooler COOLER MASTER Hyper 212 Turbo White Edition LED",
+                "categoria": "Cooler",
+                "marca": "COOLER MASTER",
+                "cant de heatpipes": 4,
+                "cant fan coolers": 2,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Air Cooler COOLER MASTER MasterAir MA620M ARGB",
+                "categoria": "Cooler",
+                "marca": "COOLER MASTER",
+                "cant de heatpipes": 6,
+                "cant fan coolers": 1,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Air Cooler THERMALTAKE UX100 ARGB",
+                "categoria": "Cooler",
+                "marca": "THERMALTAKE",
+                "cant de heatpipes": 0,
+                "cant fan coolers": 1,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Fuente THERMALTAKE SMART BX1 RGB 750W 80 Plus Bronze ATX FIJO RGB",
+                "categoria": "Fuente",
+                "marca": "THERMALTAKE",
+                "modelo": "SMART BX1 RGB",
+                "certificación": "80 Plus Bronze",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Fuente THERMALTAKE SMART BX1 RGB 650W 80 Plus Bronze ATX Fijo RGB",
+                "categoria": "Fuente",
+                "marca": "THERMALTAKE",
+                "modelo": "SMART BX1 RGB",
+                "certificación": "80 Plus Bronze",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Fuente GIGABYTES P750GM 750W 80 Plus Gold ATX Modular",
+                "categoria": "Fuente",
+                "marca": "GIGABYTES",
+                "modelo": "P750GM",
+                "certificación": "80 Plus Gold",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Fuente GIGABYTES AORUS 750W 80 PLUS GOLD ATX Modular",
+                "categoria": "Fuente",
+                "marca": "THERMALTAKE",
+                "modelo": "SMART BX1 RGB",
+                "certificación": "80 Plus Bronze",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Gabinete COOLER MASTER MasterCase H500M Negro",
+                "categoria": "Gabinete",
+                "marca": "COOLER MASTER",
+                "modelo": "MasterCase H500M",
+                "usb tipo c": 1,
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Gabinete COOLER MASTER Cosmos C700M Negro Full Tower RGB S/Fuente",
+                "categoria": "Gabinete",
+                "marca": "COOLER MASTER",
+                "modelo": "Cosmos C700P",
+                "facto de forma": "Full Tower",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Gabinete GIGABYTES AC300G Gris Mid Tower ARGB S/Fuente",
+                "categoria": "Gabinete",
+                "marca": "GIGABYTES",
+                "modelo": "AC300G",
+                "usb tipo c": "1",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Gabinete THERMALTAKE Core P5 TG Ti Negro Mid Tower S/Fuente Standar",
+                "categoria": "Gabinete",
+                "marca": "THERMALTAKE",
+                "modelo": "Core P5 TG Ti",
+                "facto de forma": "Mild Tower",
+                "img": "",
+                "caracteristicas": []
+            },
+            {
+                "nombre": "Gabinete THERMALTAKE AHT600 Snow Blanco Mild Tower S/Fuente",
+                "categoria": "Gabinete",
+                "marca": "THERMALTAKE",
+                "modelo": "AH T600 Snow",
+                "facto de forma": "Mild Tower",
+                "img": "",
+                "caracteristicas": []
+            }
+        ]
+    },
+    {
+        "nombre": "",
+        "categoria": "",
+        "subCategoria": "",
+        "marca": "",
+        "Factor de Forma": "",
+        "img": "",
+        "caracteristicas": []
+    }
+]
